@@ -1,6 +1,8 @@
 # Cloudy Weather App
 
 Welcome to the Cloudy Weather App GitHub repository! 🌦️
+<img width="450px;" src="https://github.com/RaamVijith/cloudy_weather_app/blob/main/assets/over_view.png?raw=true"/>
+
 
 ## Overview
 
